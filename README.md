@@ -30,8 +30,10 @@ Traditional supervised models require extensive labeled anomaly data. This proje
 
 *(Tip: Drag and drop your generated matplotlib plots here)*
 
-* `plots/ecg_reconstruction_comparison.png` — Original vs. Reconstructed ECG signals.
-* `plots/tsne_latent_space.png` — 2D t-SNE scatter plot of normal vs. anomalous clusters.
+* <img width="761" height="362" alt="image" src="https://github.com/user-attachments/assets/0913fd9e-bea2-4412-b452-c8bd81c88720" />
+ — Original vs. Reconstructed ECG signals.
+* <img width="677" height="527" alt="image" src="https://github.com/user-attachments/assets/027c5a79-4c0f-4d38-8657-452bc04e69f8" />
+ — 2D t-SNE scatter plot of normal vs. anomalous clusters.
 
 ## 🏃 How to Run
 
