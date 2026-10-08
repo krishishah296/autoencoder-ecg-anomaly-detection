@@ -1,9 +1,4 @@
 # autoencoder-ecg-anomaly-detection
----
-
-### 2. Deep Learning Autoencoder Anomaly Detection
-
-Save this as `README.md` in your Deep Learning repository (e.g., `autoencoder-ecg-anomaly-detection`):
 
 ```markdown
 # Autoencoder Anomaly Detection & Latent Space Mapping
